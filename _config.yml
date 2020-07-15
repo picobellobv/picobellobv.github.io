@@ -32,8 +32,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Dr. Jekyll
+  location: Locatie
   social: Wij zijn te vinden
   credits: Site bouwert
 
@@ -56,7 +56,7 @@ address:
   - line: Pils Hills 50
 
 # Credits content
-credits: 'Bedankt Sjef voor de site, had jij nog die bami bal besteld?'
+credits: 'Bedankt Sjef voor de site, had jij nog die bamibal nog besteld?'
 
 # Build settings
 markdown: kramdown
