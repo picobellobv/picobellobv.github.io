@@ -4,7 +4,7 @@ email: sjef@picobello-bv.nl
 url: https://picobello-bv.nl
 description: "Mot je verbouwen, je mot er van houwen!"
 keywords: "your keywords, separated by commas"
-skills: "Hebbie wat te bouwen? je mot er van houwen"
+skills: "Hebbie wat te bouwen? je mot er van houwen!"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -35,7 +35,7 @@ footer:
   copyright: Dr. Jekyll
   location: Locatie
   social: Wij zijn te vinden
-  credits: Site bouwert
+  credits: Site Bouwert
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,7 +56,7 @@ address:
   - line: Pils Hills 50
 
 # Credits content
-credits: 'Bedankt Sjef voor de site, had jij nog die bamibal nog besteld?'
+credits: 'Bedankt Sjef voor de site, had jij nog die bamibal besteld?'
 
 # Build settings
 markdown: kramdown
